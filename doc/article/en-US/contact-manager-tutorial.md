@@ -1122,3 +1122,9 @@ Now that you've completed the tutorial, you may want to consider doing some addi
 ## [Conclusion](aurelia-doc://section/11/version/1.0.0)
 
 This tutorial presents a fairly simple application, but it provides an opportunity to demonstrate a number of interesting techniques. We hope it's helped you along in the process of learning Aurelia and we look forward to seeing what things you will build next.
+
+NOTE:
+
+EisenbergEffect commented on Aug 19 at https://github.com/aurelia/webpack-plugin/issues/11
+It's been working for me for weeks. It's possible that ou have an old version of the cli.
+## You need to update it inside your project.
